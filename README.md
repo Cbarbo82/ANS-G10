@@ -14,4 +14,16 @@ A pesar de este amplio mercado, la dinamización es limitada debido a la estruct
 
 Este vacío presenta una oportunidad única para cervecerías que deseen explorar y desarrollar el mercado, ofreciendo productos diferenciados que puedan captar la atención de consumidores que están comenzando a valorar la diversidad y la calidad en su consumo cervecero. 
 
-El cliente potencial para esta solución incluye cervecerías colombianas que buscan ingresar o ganar una mayor participación en el mercado colombiano. Mediante la aplicación de técnicas de aprendizaje no supervisado, como el análisis de clústeres, se espera encontrar patrones que ofrezcan información útil para detectar segmentos de mercado no explorados con potencial de crecimiento. Así, esperamos analizar cada segmento hallado para entender en qué aumento en ventas, está ganando tamaño de mercado, y que presentan un incremento reciente de ingresos, siendo las más exitosas. El resultado final permitiría recomendar los perfiles de cerveza en los que invertir puede resultar en grandes ganancias. 
+El cliente potencial para esta solución incluye cervecerías colombianas que buscan ingresar o ganar una mayor participación en el mercado colombiano. Mediante la aplicación de técnicas de aprendizaje no supervisado, como el análisis de clústeres, se espera encontrar patrones que ofrezcan información útil para detectar segmentos de mercado no explorados con potencial de crecimiento. Así, esperamos analizar cada segmento hallado para entender en qué aumento en ventas, está ganando tamaño de mercado, y que presentan un incremento reciente de ingresos, siendo las más exitosas. El resultado final permitiría recomendar los perfiles de cerveza en los que invertir puede resultar en grandes ganancias.
+
+### Carpetas
+A continuación se describe el contenido y uso de las carpetas de este repositorio:
+
+### Entrega de Documentos
+En esta carpeta se encuentran los documentos que se entregaran en la plataforma Coursera para cada semana correspondiente.
+
+### Códigos
+Aquí se guardan el código que se emplea para el proyecto.
+
+### Base de Datos
+Se guarda la base de datos que se utilizó para el desarrollo de este proyecto.
