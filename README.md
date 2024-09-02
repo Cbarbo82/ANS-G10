@@ -1,4 +1,5 @@
-# ANS-G10
+# Proyecto Final Análisis No Supervisado-Grupo 10
+## Análisis de clustering para las propiedades de distintas marcas de cerveza en Colombia
 El mercado de la cerveza en Colombia está experimentando un notable crecimiento, con un consumo anual estimado en 30.2 millones de hectolitros, representando ingresos de aproximadamente 22 billones de pesos en 2023. Según Euromonitor [2], el consumo per cápita ha alcanzado 60 litros anuales, posicionando a Colombia como el tercer consumidor de cerveza en América Latina, detrás de México y Brasil. 
 
 A pesar de este amplio mercado, la dinamización es limitada debido a la estructura monopolística del mercado. Esto ha restringido la diversificación, limitando la innovación y la introducción de nuevos tipos de cerveza. No obstante, dentro de las principales oportunidades de negocio se encuentra la inclusión de marcas y expansión de cervezas artesanales, un segmento que ha mostrado un crecimiento gradual en los últimos años [3]. Sin embargo, en comparación con otros países latinoamericanos como Argentina o Chile, donde la cerveza artesanal ha capturado una mayor participación de mercado, Colombia aún tiene un largo camino por recorrer. 
