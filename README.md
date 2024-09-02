@@ -1,6 +1,11 @@
 # Proyecto Final Análisis No Supervisado - Grupo 10
 ## Análisis de clustering para las propiedades de distintas marcas de cerveza en Colombia
 
+## Contenido
+* [Entrega de Documentos](#Entrega-de-Documentos)
+* [Códigos](#Códigos)
+* [Base de Datos](#Base-de-Datos)
+
 ### Introducción
 El mercado de la cerveza en Colombia está experimentando un notable crecimiento, con un consumo anual estimado en 30.2 millones de hectolitros, representando ingresos de aproximadamente 22 billones de pesos en 2023. Según Euromonitor [2], el consumo per cápita ha alcanzado 60 litros anuales, posicionando a Colombia como el tercer consumidor de cerveza en América Latina, detrás de México y Brasil. 
 
