@@ -16,7 +16,6 @@ Este vacío presenta una oportunidad única para cervecerías que deseen explora
 
 El cliente potencial para esta solución incluye cervecerías colombianas que buscan ingresar o ganar una mayor participación en el mercado colombiano. Mediante la aplicación de técnicas de aprendizaje no supervisado, como el análisis de clústeres, se espera encontrar patrones que ofrezcan información útil para detectar segmentos de mercado no explorados con potencial de crecimiento. Así, esperamos analizar cada segmento hallado para entender en qué aumento en ventas, está ganando tamaño de mercado, y que presentan un incremento reciente de ingresos, siendo las más exitosas. El resultado final permitiría recomendar los perfiles de cerveza en los que invertir puede resultar en grandes ganancias.
 
-### Carpetas
 A continuación se describe el contenido y uso de las carpetas de este repositorio:
 
 ### Entrega de Documentos
