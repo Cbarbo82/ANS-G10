@@ -2,6 +2,7 @@
 ## Análisis de clustering para las propiedades de distintas marcas de cerveza en Colombia
 
 ## Contenido
+* [Introducción](#Introducción)
 * [Entrega de Documentos](#Entrega-de-Documentos)
 * [Códigos](#Códigos)
 * [Base de Datos](#Base-de-Datos)
