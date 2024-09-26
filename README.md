@@ -1,6 +1,8 @@
 # Proyecto Final Análisis No Supervisado - Grupo 10
 ## Análisis de clustering para las propiedades de distintas marcas de cerveza en Colombia
 
+## Link de la presentación: https://youtu.be/XAXz7h-Wggs
+
 ## Contenido
 * [Introducción](#Introducción)
 * [Entrega de Documentos](#Entrega-de-Documentos)
